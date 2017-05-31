@@ -14,27 +14,27 @@ source: Early English Books Online
             
 ¶The fyrſt chapytre telleth howe and by whom the Cyte of Ladyes was fyrſte begon to buylde. Capitulo. Primo.
             
-¶Xp̄ine telleth howe.iij.ladyes appered to her|+ how ſhe that wente before reaſoned with her tyrſte and comforted her of the dyſpleaſure that ſhe had Capitulo. Secundo.
+¶Xp̄ine telleth howe.iij.ladyes appered to her + how ſhe that wente before reaſoned with her tyrſte and comforted her of the dyſpleaſure that ſhe had Capitulo. Secundo.
            
-¶Xp̄ine ſayth howe that the lady that reaſoned with her deuyſed what was her propryete + wher of ſhe ſerued | and tolde her howe ſhe ſholde buylde a cyte with the helpe of theſe.iij.ladyes. Ca. iij.
+¶Xp̄ine ſayth howe that the lady that reaſoned with her deuyſed what was her propryete + wher of ſhe ſerued and tolde her howe ſhe ſholde buylde a cyte with the helpe of theſe.iij.ladyes. Ca. iij.
             
 ¶Xp̄ine telleth howe the lady deuyſed to her the Cyte that was commytted to her to make and that ſhe was ſtabled to helpe her to begyn the walles and the cloyſtre aboute and after tolde her her na me.Capitulo. iiij.
             
-¶Xp̄ine telleth howe the ſeconde lady tolde her her name|and wherof ſhe ſerued|+howe ſhe ſholde helpe her to make the maſonrye of the Cyte of Ladyes.Ca. v.
+¶Xp̄ine telleth howe the ſeconde lady tolde her her name and wherof ſhe ſerued + howe ſhe ſholde helpe her to make the maſonrye of the Cyte of Ladyes.Ca. v.
             
-¶Alſo Xp̄ine telleth howe the tyrde lady tolde her what ſhe was and wherfore ſhe ſerued|and howe ſhe wolde helpe her to make the hyghe bataylmentes of the towres of her Cyte and to people it with noble ladyes. Ca. vj.
+¶Alſo Xp̄ine telleth howe the tyrde lady tolde her what ſhe was and wherfore ſhe ſerued and howe ſhe wolde helpe her to make the hyghe bataylmentes of the towres of her Cyte and to people it with noble ladyes. Ca. vj.
             
 ¶Also Xp̄ine telleth howe ſhe ſpake to thre ladyes.Ca. vij.
         
 ¶Here Xp̄ine telleth howe by the commaundement of dame Reaſon ſhe began to dygge the erthe to make the foundement.Ca. viij.
             
-¶Here Xp̄ine telleth howe ſhe dygged in the erthe which is to vnderſtande the queſtyons that ſhe made to Reaſon|and howe reaſon anſwered her Capitulo. ix.
+¶Here Xp̄ine telleth howe ſhe dygged in the erthe which is to vnderſtande the queſtyons that ſhe made to Reaſon and howe reaſon anſwered her Capitulo. ix.
             
 ¶Also of the ſame altrycacyons and anſweres. Capitulo. x.
             
 ¶Xp̄yne demaundeth Reaſon wherefore it is that women ſytteth not in the ſyege of pleadynge Capitulo. xj.
             
-¶Alſo it ſpeketh of the Empreſſe Nychole|and after of dyuers noble quenes and prynceſſes of Fraunce.Ca. xij.
+¶Alſo it ſpeketh of the Empreſſe Nychole and after of dyuers noble quenes and prynceſſes of Fraunce.Ca. xij.
             
 ¶Of the quene of Fraunce whiche was named fredegonde.Ca. xiiij.
             
@@ -148,9 +148,9 @@ source: Early English Books Online
 
 ## Footnotes
 
-[fn1]: This text only includes the table of contents and the printer's prologue.
+[^fn1]: This text only includes the table of contents and the printer's prologue.
 
-[fn2]: The table of contents only includes the chapters for book 1.
+[^fn2]: The table of contents only includes the chapters for book 1.
 
-[fn3]: The printer of this text is [Henry Pepwell](https://en.wikipedia.org/wiki/Henry_Pepwell)
+[^fn3]: The printer of this text is [Henry Pepwell](https://en.wikipedia.org/wiki/Henry_Pepwell)
                 
