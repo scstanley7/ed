@@ -56,11 +56,11 @@ source: Early English Books Online
             
 ¶Of the quene of Fraunce Fredegonde. Ca.xxij.
 
-¶Of the Mayde Camylle. Ca. &gt;right&lt; xxiij.
+¶Of the Mayde Camylle. Ca. xxiij.
 
 ¶Of the quene Veronycle of Capadoce.Ca.xxiiij.
 
-¶Also of the noble Archemyſe quene of Carye. Capitulo. &gt;right&lt; xxv.
+¶Also of the noble Archemyſe quene of Carye. Capitulo. xxv.
             
 ¶Of the hardyneſſe of Cleolis.Ca. xxvj.
             
@@ -76,9 +76,9 @@ source: Early English Books Online
             
 ¶Of Medea and another quene named Cyrtes Capitulo. xxij.
 
-¶Xp̄ine aſketh of Reaſon yf there was euer woman that founde ony thing of herſelfe that was not knowne before|and ſhe tolde her of Nycoſtrate otherwyſe called Carmentis. Ca. xxxiij.
+¶Xp̄ine aſketh of Reaſon yf there was euer woman that founde ony thing of herſelfe that was not knowne before and ſhe tolde her of Nycoſtrate otherwyſe called Carmentis. Ca. xxxiij.
             
-¶Of Mynerue that founde many ſcyences|and the manere to make Armoure of Iron and ſteele. Capitulo. xxxiiij.
+¶Of Mynerue that founde many ſcyences and the manere to make Armoure of Iron and ſteele. Capitulo. xxxiiij.
             
 ¶Of the ryght noble quene Seres. Ca. xxxv.
             
@@ -88,11 +88,11 @@ source: Early English Books Online
             
 ¶Of the ſame. Capitulo. xxxviij.
             
-¶Of the mayden Arenye that founde the crafte to ſhere ſheepe|to dreſſe the wolles| and to make clothe. Ca. xxxix.
+¶Of the mayden Arenye that founde the crafte to ſhere ſheepe to dreſſe the wolles and to make clothe. Ca. xxxix.
             
 ¶Of Pamphyle that founde the crafte to drawe ſylke of the wormes.Ca. xl.
             
-¶Of Thamar that was a ſouerayne mayſtreſſe in the crafte of payntynge|and of another named Irayne.Ca. xlj.
+¶Of Thamar that was a ſouerayne mayſtreſſe in the crafte of payntynge and of another named Irayne.Ca. xlj.
             
 ¶Alſo it ſpeke of Semproyne.Ca. xlij.
             
